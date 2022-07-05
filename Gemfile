@@ -42,6 +42,9 @@ gem 'tzinfo-data'
 # Rubocop
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+# Racl-cors
+gem 'rack-cors'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', require: false
 
